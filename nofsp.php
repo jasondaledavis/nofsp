@@ -4,7 +4,8 @@ Plugin Name: No Force Strong Passwords
 Description: Deactivate Force Strong Passwords for WP Engine
 Version: 1.0
 Author: Jason Davis
-Author URI: https://profiles.wordpress.org/batgeek
+Author URI: https://nerdbrand.me
+Plugin URI: https://nerdbrand.me
 License: GPLv2
 */
 
